@@ -1,5 +1,4 @@
-# 2.Cassandra ETL Project
- Egypt FWD Data Enginner
+# 2.Cassandra ETL Project For Egypt FWD Data Enginner
 ![What's Cassandra?](what-is-Cassandra.png)
 # Project Overview
 In this project, I'll apply what I've learned on data modeling with Apache Cassandra and complete an ETL pipeline using Python. To complete the project, I will need to model My data by creating tables in Apache Cassandra to run queries. I provided with part of the ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
